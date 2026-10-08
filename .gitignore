@@ -1,0 +1,8 @@
+build/
+*.xcodeproj
+xcuserdata/
+.DS_Store
+build-release/
+build-release.log
+*.dmg
+build-icon/
